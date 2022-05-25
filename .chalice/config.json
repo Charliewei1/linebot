@@ -1,0 +1,15 @@
+{
+  "version": "2.0",
+  "app_name": "kisopro-zoho-gi",
+  "autogen_policy": false,
+  "iam_policy_file": "policy.json",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api",
+      "environment_variables":{
+        "LINE_CHANNEL_SECRET": "xxx",
+        "LINE_CHANNEL_ACCESS_TOKEN": "xxxxx"
+      }
+    }
+  }
+}
