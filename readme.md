@@ -17,5 +17,9 @@
 
 ` 授業で作りました。`
 ## 参考画像
-![image](https://user-images.githubusercontent.com/65396705/170175550-9eeec211-e5d5-43fe-802c-8716bcf19df4.png)![image](https://user-images.githubusercontent.com/65396705/170175562-bce241cb-c06d-40d5-b641-7978760664bc.png)![image](https://user-images.githubusercontent.com/65396705/170175568-f2d4114b-db7e-4e01-b307-5d85faa4d4b2.png)　　
+<img src="https://user-images.githubusercontent.com/65396705/170175550-9eeec211-e5d5-43fe-802c-8716bcf19df4.png" width="33%"><img src="https://user-images.githubusercontent.com/65396705/170175562-bce241cb-c06d-40d5-b641-7978760664bc.png" width="33%"><img src="https://user-images.githubusercontent.com/65396705/170175568-f2d4114b-db7e-4e01-b307-5d85faa4d4b2.png" width="33%">
+
+## 仕組み
 ![image](https://user-images.githubusercontent.com/65396705/170175574-5df4336d-0d3a-41c6-b838-40fc7426bdd0.png)
+
+初めてAWSを使いました。CloudWatchなどでlogを見ながらやるのは普通のﾌﾟﾛｸﾞﾗﾐﾝｸﾞと変わらないと思いました。
